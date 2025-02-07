@@ -4,7 +4,7 @@ dotenv.config();
 
 let client;
 
-let MONGO = "mongodb+srv://ishwarideshmukh:Ishwari123@cluster0.7ua4t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+let MONGO = 
 
 
 
